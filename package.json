@@ -1,0 +1,14 @@
+{
+  "name": "ts-model",
+  "version": "0.1.2",
+  "description": "实体化定义类型",
+  "main": "index.js",
+  "author": "gmono",
+  "license": "MIT",
+  "dependencies": {
+    "ts-metacode": "^1.2.1-maintain1"
+  },"repository": {
+    "type": "git",
+    "url": "https://github.com/gmono/ts-model.git"
+  }
+}
